@@ -1056,3 +1056,6 @@ h4 {
     font-size: 20px;
     color: grey !important;
 }
+.lien-texte {
+    display: none;
+}
